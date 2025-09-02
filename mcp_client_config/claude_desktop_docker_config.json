@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "bixi": {
+      "command": "docker",
+      "args": ["run", "-i", "bixi-mcp"]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "bixi": {
+      "command": "uv",
+      "args": [
+        "--directory",
+        "your_full_path/bixi-api/mcp_server",
+        "run",
+        "server.py"
+      ]
+    }
+  }
+}
